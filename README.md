@@ -2,7 +2,7 @@
 Download music with direct link from radiojavan.com
 
 ### Live Version✅
-https://wiz.gg/rj
+https://cheetateam.ir/rjdownloader
 
 ### Support✅
 - Album
@@ -10,8 +10,3 @@ https://wiz.gg/rj
 - Music Video
 - Podcast
 
-____
-
-### License
-
-This software is licensed under the MIT License. See the [license file](LICENSE) for details.  
